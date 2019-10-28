@@ -1,0 +1,14 @@
+#body {
+	background-color:#222222
+}
+#textborder {
+	width: 50%;
+	border: 10px solid #333399;
+	padding: 25px;
+	margin: 0 auto;
+	width: 230px;
+}
+
+#text {
+	color: #FF6600
+}
